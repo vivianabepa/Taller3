@@ -1,0 +1,61 @@
+
+body {
+
+	background: #34495e;
+}
+
+#cajasoltar{
+	float:left;
+	width:600px;
+	height:400px;
+	margin:10px;
+	border:1px solid #2980b9;
+	/*background: white;*/
+}
+
+#cajaimagenes {
+	float:left;
+	width:320px;
+	margin:10px;
+	border:1px solid #2980b9;
+	background: #ecf0f1;
+}
+
+#cajaimagenes > img{
+	float: left;
+	padding: 5px;
+}
+
+#imagen1 {
+
+	width: 256px;
+	height: 256px;
+	margin: 30px;
+}
+
+#imagen2 {
+
+	width: 256px;
+	height: 256px;
+	margin: 30px;
+
+}
+
+#imagen3 {
+
+	width: 256px;
+	height: 256px;
+	margin: 30px;
+
+}
+
+#lienzo {
+
+	width: 600px;
+	height: 400px;
+}
+
+#map {
+	width: 600px;
+	height: 590px;
+}
